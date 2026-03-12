@@ -49,7 +49,7 @@ The dataset used in this project (`Cleaned_Consumption.csv`) contains structured
 
 ## 🧑‍💻 Author
 
-**Sravya Desam**
+**Priyanshu Sharma**
 
 Feel free to connect or contribute!
 
